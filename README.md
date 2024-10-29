@@ -5,9 +5,11 @@ Get this greedy domain registrars:
 My domains, means my domains, and no registrar should advertise to my expense.
 Period.
 
-I was forced to create this empty landing page because domain registrar think they can advertise for free in my own domains while I have them parked.
-Asked from a certain "domain registrar" to give me the option to remove their unauthorized landing page from domains I pad and they said there is no such an option.
+I was forced to create this empty landing page because domain registrars think they can advertise for free in my own domains while I have them parked.
+Asked from a certain "domain registrar" to give me the option to remove their unauthorized landing page from domains I paid and they said there is no such an option.
 
-There you have an adfree domain landing page.
+There you have an adfree domain landing page now.
 
-Feel free to use this landing page against greedy domain registrars or create your empty as a message to greedines.
+Feel free to use this message page as a protest to unauthorized use of your digital property..
+Redirect to this landing page by going into your parked domain DNS setting following your greedy registrar guide..
+And there you have it - Your domains, means your property. Not a cash cow for greedy registrars.
